@@ -127,8 +127,6 @@ void ScriptApiSecurity::initializeSecurity()
 		"gethook",
 		"traceback",
 		"getinfo",
-		"getmetatable",
-		"setmetatable",
 		"upvalueid",
 		"sethook",
 		"debug",
